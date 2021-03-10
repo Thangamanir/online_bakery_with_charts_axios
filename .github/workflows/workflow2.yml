@@ -44,6 +44,6 @@ jobs:
         
       - name: Archive Production artifact
         uses: actions/upload-artifact@master
-          with: 
+        with: 
             name: dist
             path: dist
