@@ -16,7 +16,7 @@ export default {
   
   data(){
     return{
-        msg: 'Online Bakery'
+        msg: 'Online Bakery - Automated'
         }
   }
 }
